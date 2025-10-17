@@ -1,2 +1,4 @@
 Contenido inicial del archivo1
 Contenido agregado en la rama2
+Contenido agregado en la rama1
+Segundo contenido en la rama1
